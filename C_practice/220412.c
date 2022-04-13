@@ -1,3 +1,5 @@
+//배열 복습 및 실습
+
 #include <stdio.h>
 
 int main()
