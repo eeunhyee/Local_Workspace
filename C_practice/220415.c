@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /*
 int main과 void main의 차이점.
 int main 사용시 return값을 무조건 작성해주어야 한다.
@@ -10,7 +12,6 @@ void main함수를 지원하는 컴파일러는 점점 더 적어져서, int mai
 */
 
 // *연산자에 피연산자가 두개 있으면 곱셈 연산자(a*b)이고, 하나만 있으면 참조 연산자다.
-#include <stdio.h>
 
 int main(){
     
